@@ -41,12 +41,12 @@ const Products = () => {
                             <p className="text-base text-neutralGrey mb-5">British Dragon Boat Racing Association</p>
                             <div>
                                 <div className="flex items-center gap-8 flex-wrap">
-                                    <img src="./src/assets/icons/company1.svg" alt="" className="cursor-pointer" />
-                                    <img src="./src/assets/icons/company2.svg" alt="" className="cursor-pointer" />
-                                    <img src="./src/assets/icons/company3.svg" alt="" className="cursor-pointer" />
-                                    <img src="./src/assets/icons/company4.svg" alt="" className="cursor-pointer" />
-                                    <img src="./src/assets/icons/company5.svg" alt="" className="cursor-pointer" />
-                                    <img src="./src/assets/icons/company6.svg" alt="" className="cursor-pointer" />
+                                    <img src="/icons/company1.svg" alt="" className="cursor-pointer" />
+                                    <img src="/icons/company2.svg" alt="" className="cursor-pointer" />
+                                    <img src="/icons/company3.svg" alt="" className="cursor-pointer" />
+                                    <img src="/icons/company4.svg" alt="" className="cursor-pointer" />
+                                    <img src="/icons/company5.svg" alt="" className="cursor-pointer" />
+                                    <img src="/icons/company6.svg" alt="" className="cursor-pointer" />
                                     <div>
                                         <a href="/" className="font-bold text-brandPrimary hover:text-neutral-700">
                                             Meet all customers
