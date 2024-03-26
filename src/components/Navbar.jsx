@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-scroll";
 import { FaXmark, FaBars } from "react-icons/fa6";
-import logo from "../assets/logo.svg";
+import logo from "/logo.svg";
 
 
 const Navbar = () => {

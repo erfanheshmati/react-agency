@@ -1,9 +1,9 @@
 const Services = () => {
 
     const services = [
-        { id: 1, title: "Membership Organizations", description: "Our membership management software provides full automation of membership renewals and payments", image: "/src/assets/icons/membership.svg" },
-        { id: 2, title: "National Associations", description: "Our membership management software provides full automation of membership renewals and payments", image: "/src/assets/icons/associations.svg" },
-        { id: 4, title: "Clubs And Groups", description: "Our membership management software provides full automation of membership renewals and payments", image: "/src/assets/icons/group-clubs.svg" },
+        { id: 1, title: "Membership Organizations", description: "Our membership management software provides full automation of membership renewals and payments", image: "/icons/membership.svg" },
+        { id: 2, title: "National Associations", description: "Our membership management software provides full automation of membership renewals and payments", image: "/icons/associations.svg" },
+        { id: 4, title: "Clubs And Groups", description: "Our membership management software provides full automation of membership renewals and payments", image: "/icons/group-clubs.svg" },
     ]
 
     return (
@@ -14,13 +14,13 @@ const Services = () => {
 
                 {/* company logo */}
                 <div className="my-12 flex flex-wrap justify-around items-center gap-8">
-                    <img src="./src/assets/icons/company1.svg" alt="" width="50" />
-                    <img src="./src/assets/icons/company2.svg" alt="" width="50" />
-                    <img src="./src/assets/icons/company3.svg" alt="" width="50" />
-                    <img src="./src/assets/icons/company4.svg" alt="" width="50" />
-                    <img src="./src/assets/icons/company5.svg" alt="" width="50" />
-                    <img src="./src/assets/icons/company6.svg" alt="" width="50" />
-                    <img src="./src/assets/icons/company7.svg" alt="" width="50" />
+                    <img src="/icons/company1.svg" alt="" width="50" />
+                    <img src="/icons/company2.svg" alt="" width="50" />
+                    <img src="/icons/company3.svg" alt="" width="50" />
+                    <img src="/icons/company4.svg" alt="" width="50" />
+                    <img src="/icons/company5.svg" alt="" width="50" />
+                    <img src="/icons/company6.svg" alt="" width="50" />
+                    <img src="/icons/company7.svg" alt="" width="50" />
                 </div>
 
                 {/* services card */}

@@ -1,5 +1,5 @@
 import { Carousel } from "flowbite-react";
-import banner1 from "../assets/banner1.svg"
+import banner1 from "/banner1.svg"
 
 
 const Home = () => {

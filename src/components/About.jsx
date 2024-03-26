@@ -1,4 +1,4 @@
-import aboutImage from "../assets/about1.svg"
+import aboutImage from "/about1.svg"
 
 const About = () => {
     return (
@@ -41,14 +41,14 @@ const About = () => {
                     <div className="md:w-1/2 mx-auto flex sm:flex-row flex-col sm:items-center justify-around gap-12">
                         <div className="space-y-8">
                             <div className="flex items-center gap-4">
-                                <img src="./src/assets/icons/member.svg" alt="" width="60" />
+                                <img src="/icons/member.svg" alt="" width="60" />
                                 <div>
                                     <h4 className="text-2xl text-neutralDGrey font-semibold">2,245,341</h4>
                                     <p>Members</p>
                                 </div>
                             </div>
                             <div className="flex items-center gap-4">
-                                <img src="./src/assets/icons/event.svg" alt="" width="60" />
+                                <img src="/icons/event.svg" alt="" width="60" />
                                 <div>
                                     <h4 className="text-2xl text-neutralDGrey font-semibold">828,867</h4>
                                     <p>Event Bookings</p>
@@ -57,14 +57,14 @@ const About = () => {
                         </div>
                         <div className="space-y-8">
                             <div className="flex items-center gap-4">
-                                <img src="./src/assets/icons/club.svg" alt="" width="60" />
+                                <img src="/icons/club.svg" alt="" width="60" />
                                 <div>
                                     <h4 className="text-2xl text-neutralDGrey font-semibold">46,323</h4>
                                     <p>Clubs</p>
                                 </div>
                             </div>
                             <div className="flex items-center gap-4">
-                                <img src="./src/assets/icons/payment.svg" alt="" width="60" />
+                                <img src="/icons/payment.svg" alt="" width="60" />
                                 <div>
                                     <h4 className="text-2xl text-neutralDGrey font-semibold">1,926,436</h4>
                                     <p>Payments</p>

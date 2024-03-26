@@ -1,5 +1,5 @@
-import proImage from "../assets/mobile-login.svg"
-import Maecenas from "../assets/maecenas.svg"
+import proImage from "/mobile-login.svg"
+import Maecenas from "/maecenas.svg"
 
 const Products = () => {
     return (
